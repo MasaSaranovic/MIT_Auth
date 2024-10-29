@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782202510747",
+    "project_id": "authapptestmit",
+    "storage_bucket": "authapptestmit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782202510747:android:01de34e07081f4c887953e",
+        "android_client_info": {
+          "package_name": "com.example.authapptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU96SPuww5roMQEZiFTawILBiO-pZA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782202510747:android:685f4e3ef339969287953e",
+        "android_client_info": {
+          "package_name": "com.example.authmitvezbe3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU96SPuww5roMQEZiFTawILBiO-pZA9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
